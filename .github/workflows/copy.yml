@@ -10,7 +10,7 @@ on:
       destination:
         description: '目标源 (Registry)'
         required: true
-        default: 'registry.cn-heyuan.aliyuncs.com'
+        default: 'crpi-sf9gw733onfvtafo.cn-heyuan.personal.cr.aliyuncs.com/zms2024/zms'
       source_repo:
         description: '仓库及标签 (格式 repo:tag)'
         required: true
